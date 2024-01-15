@@ -24,11 +24,32 @@ const createPost = async (titulo,img,descripcion) => {
 
     try {
         const response = await pool.query(query);
-        return response.rows;
+        return response.rows[0];
     } catch (error) {
         console.log(error)
     }
 }
 
 
-export { getPosts, createPost}
+const updatePostLike = async (id) => {
+
+    const SQLquery = {
+      text: "UPDATE posts SET likes = likes + 1 WHERE id = $1 RETURNING *",
+      values: [id],
+    };
+      const response = await pool.query(SQLquery);
+      return response.rows[0];
+  }
+
+
+  const destroyPost = async (id) => {
+    const SQLquery = {
+      text: "DELETE FROM posts WHERE id = $1",
+      values: [id],
+    };
+      const response = await pool.query(SQLquery);
+      return response.rowCount;
+  };
+
+
+export { getPosts, createPost, updatePostLike, destroyPost}

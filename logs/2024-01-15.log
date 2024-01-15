@@ -1,0 +1,258 @@
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:20:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:20:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 70 ms Request ID: [9c7bdb00-fdf2-4231-868b-3c0d63c45b12]
+
+Completed: 304 message:  Time response: 8 ms Request ID: [d50158f1-cf74-4d79-bc0c-1a5adbbf06a3]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:24:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 223 ms Request ID: [882822a4-bc37-4c7a-85fc-ae73a75d96d4]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:28:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 119 ms Request ID: [097a3e06-40b1-4281-aae4-609edf1636e8]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:28:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [4c117b74-19f7-4fe6-983c-ba3b77a39009]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:30:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 111 ms Request ID: [ada8048d-e707-468f-8c5d-53b4009f18cc]
+
+Started POST /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:30:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"U de chile","img":"https://yt3.googleusercontent.com/uHo7lKjSWVmv8xukT9ifjujiq7VCkPqlw-oBNxrIDlPv1iz8QlemxsoZylXaloetzXUvxU0AMQ=s900-c-k-c0x00ffffff-no-rj","descripcion":"prueba"}
+Completed: 500 message:  Time response: 21 ms Request ID: [d57ef3d0-db3c-4d48-9be8-76c37b991e9c]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:32:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 112 ms Request ID: [082a7f63-2cea-46cc-8f5e-09dbf24c8545]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:32:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [4df3fba4-3060-44d6-b6c3-7c9d6208f34f]
+
+Started POST /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:33:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"U de chile","img":"https://yt3.googleusercontent.com/uHo7lKjSWVmv8xukT9ifjujiq7VCkPqlw-oBNxrIDlPv1iz8QlemxsoZylXaloetzXUvxU0AMQ=s900-c-k-c0x00ffffff-no-rj","descripcion":"prueba"}
+Completed: 201 message:  Time response: 123 ms Request ID: [9cb49dfc-b99f-4936-894e-5f535b5a9583]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:33:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 87 ms Request ID: [11dd3731-dea0-4b57-9996-f7fc3e59b02b]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:33:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [94ee8487-162d-4967-ba6b-c741efc11962]
+
+Started DELETE /api/v1/posts/4 for :: ::1 at Sun Jan 14 2024 23:34:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [8a2d5e8a-c2d2-427c-a811-2d87bfc9b590]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:35:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 105 ms Request ID: [478fc84f-c423-45f7-bf14-dbe278c78237]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:35:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [9974218d-0a32-40aa-a084-aec137e288d8]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:35:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 69 ms Request ID: [a1bddb60-69fc-4b9f-8e3d-ff08da7f8b21]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:35:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [3348b1dd-02d2-48d3-a481-cac24272cf81]
+
+Started POST /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:35:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"U de chile","img":"https://yt3.googleusercontent.com/uHo7lKjSWVmv8xukT9ifjujiq7VCkPqlw-oBNxrIDlPv1iz8QlemxsoZylXaloetzXUvxU0AMQ=s900-c-k-c0x00ffffff-no-rj","descripcion":"Grande la U"}
+Completed: 201 message:  Time response: 89 ms Request ID: [058cc800-8c70-4218-8fec-4a9aece7a0d6]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 76 ms Request ID: [a559541c-e58b-4342-bf63-8df80b4e0de4]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 70 ms Request ID: [bede29fd-e2c3-4d59-a54a-403c0b744943]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [9ba6963a-0e8b-4802-aee8-1adea171f29a]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [6a850d11-81c9-416b-9624-31376276d9b4]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [66ee6846-f69e-4ae8-a566-1732daf336e7]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 60 ms Request ID: [7f4ad83f-1836-41ab-9d8a-65ce4959c870]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:40:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [756eb057-c155-45cf-8c69-9fa84ce26589]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 62 ms Request ID: [84b0f038-d1dd-4e78-9cf1-ea76d9b68c5b]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:41:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 2 ms Request ID: [d8c6bc18-b91e-44bd-b68e-26cbd6306d6c]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:41:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 81 ms Request ID: [e2a009b8-da74-41c3-b66e-52bfb2fd76d0]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:42:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 70 ms Request ID: [7e95a887-7c35-4da4-9473-248b87fef5d5]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:42:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [1de2e0f9-e9d1-4475-9ea3-1f44e0b4f52f]
+
+Started POST /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:42:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"U de chile","img":"https://yt3.googleusercontent.com/uHo7lKjSWVmv8xukT9ifjujiq7VCkPqlw-oBNxrIDlPv1iz8QlemxsoZylXaloetzXUvxU0AMQ=s900-c-k-c0x00ffffff-no-rj","descripcion":"lolo"}
+Completed: 201 message:  Time response: 68 ms Request ID: [edde2d33-7173-4400-8966-f995294dddfd]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:44:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 107 ms Request ID: [9b707f14-0007-4768-9faf-d7dcb750444a]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:44:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [815ba720-e808-421b-a6d6-ea293e722c50]
+
+Started POST /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:44:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"titulo":"U de chile","img":"https://yt3.googleusercontent.com/uHo7lKjSWVmv8xukT9ifjujiq7VCkPqlw-oBNxrIDlPv1iz8QlemxsoZylXaloetzXUvxU0AMQ=s900-c-k-c0x00ffffff-no-rj","descripcion":"test"}
+Completed: 201 message:  Time response: 108 ms Request ID: [403d60db-b60f-4f5f-846b-f27bff8ba556]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:59:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 73 ms Request ID: [1168b7a1-7e4f-4f62-8604-551e7e0d326d]
+
+Started GET /api/v1/posts for :: ::1 at Sun Jan 14 2024 23:59:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [00d183ad-ff26-46f7-a025-d9e420faae9b]
+
+Started PUT /api/v1/posts/like/1 for :: ::1 at Sun Jan 14 2024 23:59:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [e0e4ba81-e1dc-4c2d-a990-f9d7e11d5de9]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:00:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 82 ms Request ID: [a1a73353-7680-4887-95b8-3e4a297e4dee]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:00:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [d6f19eeb-3edd-40a7-98c2-dc1b9f5c6a91]
+
+Started PUT /api/v1/posts/like/1 for :: ::1 at Mon Jan 15 2024 00:00:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [6d274872-cd88-49a2-b055-cd24dfd5fca5]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 78 ms Request ID: [c71be4b8-eca1-465a-9121-63f4c9bdedaa]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:01:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3 ms Request ID: [6d814de1-6cee-4031-943f-a5c0f4444343]
+
+Started PUT /api/v1/posts/like/1 for :: ::1 at Mon Jan 15 2024 00:01:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [98c96748-99d7-4f96-a6db-e021947dbb1e]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:02:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 88 ms Request ID: [9db6ad22-fc86-4306-a8d8-639205711581]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:02:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [20bb2d99-7675-4eca-af2e-015475457ff2]
+
+Started PUT /api/v1/posts/like/1 for :: ::1 at Mon Jan 15 2024 00:02:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:05:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:05:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 83 ms Request ID: [963f79eb-7f1b-42b6-be21-87d942374fff]
+
+Completed: 304 message:  Time response: 3 ms Request ID: [64c80a1d-624f-4d60-b51c-8fc8dc77c4c4]
+
+Started PUT /api/v1/posts/like/1 for :: ::1 at Mon Jan 15 2024 00:05:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [a249f440-4428-43c1-9b51-108f5151a52d]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:05:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [6381a93f-905a-43e7-a220-a0601347e8f8]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:05:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 5 ms Request ID: [b53446e5-7392-412b-bfb1-4779ba818ef3]
+
+Started PUT /api/v1/posts/like/2 for :: ::1 at Mon Jan 15 2024 00:06:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 65 ms Request ID: [fc59a3de-5d7f-45b4-b88a-f697c41b7395]
+
+Started PUT /api/v1/posts/like/2 for :: ::1 at Mon Jan 15 2024 00:06:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 73 ms Request ID: [ace1097c-b03d-4570-9c92-2bea733449ce]
+
+Started PUT /api/v1/posts/like/2 for :: ::1 at Mon Jan 15 2024 00:06:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [c7cd67b5-2ac7-47ea-87ac-a3c248166428]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:06:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 79 ms Request ID: [d2a503fa-7523-448d-bdd4-a8cbc4971b2a]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:06:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [0ece6729-1adc-4f2f-8fb2-88830375fd78]
+
+Started DELETE /api/v1/posts/3 for :: ::1 at Mon Jan 15 2024 00:17:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 25 ms Request ID: [965ad803-64eb-4b52-8c1b-e98c48f776e3]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:17:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 108 ms Request ID: [36c134d8-e987-446e-882d-89473ebea0b4]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:17:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4 ms Request ID: [7458ed78-fc3c-4721-a621-dcb1bc49cd9b]
+
+Started DELETE /api/v1/posts/3 for :: ::1 at Mon Jan 15 2024 00:17:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [f79e7465-2c0b-44f0-b47e-a36a2ab2ed5d]
+
+Started DELETE /api/v1/posts/1 for :: ::1 at Mon Jan 15 2024 00:18:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 66 ms Request ID: [142336a9-9aa2-40b5-986b-d7d064f10b95]
+
+Started GET /api/v1/posts for :: ::1 at Mon Jan 15 2024 00:21:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 65 ms Request ID: [feb9adb2-5034-4940-86cc-c748b8386e29]
+
+Started GET /favicon.ico for :: ::1 at Mon Jan 15 2024 00:21:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [353e96eb-11ba-43b2-af77-fc5d88a84358]
+
+Started DELETE /api/v1/posts/7 for :: ::1 at Mon Jan 15 2024 00:21:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 56 ms Request ID: [b41b085b-28f7-4092-a471-4c141625efd2]
+
+Started DELETE /api/v1/posts/7 for :: ::1 at Mon Jan 15 2024 00:22:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 73 ms Request ID: [00acd528-0b18-4167-99f3-37659ad0e3e5]

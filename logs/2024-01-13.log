@@ -1,0 +1,40 @@
+
+Started GET / for :: ::1 at Fri Jan 12 2024 21:46:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [ca70b1ea-2c52-4f28-b2ba-cf1ac59559cf]
+
+Started GET / for :: ::1 at Fri Jan 12 2024 21:46:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [44de43f5-b2c3-4c1c-862f-867c7184a632]
+
+Started GET / for :: ::1 at Fri Jan 12 2024 21:49:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [dcacc5d1-23e3-4a83-9794-a45be425593a]
+
+Started GET / for :: ::1 at Fri Jan 12 2024 21:50:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [6f82d20b-f630-458d-a805-d1345bd46e86]
+
+Started GET /posts for :: ::1 at Fri Jan 12 2024 21:50:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 18 ms Request ID: [b46802cf-dafd-4948-afd5-3f139bc3290e]
+
+Started GET /posts for :: ::1 at Fri Jan 12 2024 21:51:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [f4064afc-2acf-47ca-b19c-d2186ee7c5f0]
+
+Started GET /api/v1 for :: ::1 at Fri Jan 12 2024 21:52:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [a1bbd27d-83d1-4b4e-915f-75560ec41497]
+
+Started GET /favicon.ico for :: ::1 at Fri Jan 12 2024 21:52:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [3d02365b-945b-4940-b90c-e8565e12e961]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 00:33:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [dcbcb1fb-e822-49d6-a101-5c08c0e50b13]
+
+Started GET /posts for :: ::1 at Sat Jan 13 2024 00:33:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [228ca077-b3e0-476b-baab-b5798394ea90]
